@@ -1,5 +1,5 @@
-let str  = " I Love Coding "
-aug = str.indexOf("o");
+// let str  = " I Love Coding ";
+// aug = str.indexOf("o");
 
 console.log("aug");
-  
+ 
