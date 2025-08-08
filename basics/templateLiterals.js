@@ -11,9 +11,20 @@
 
 
 
-// slice 
-let str = "I Love Coding ";
-console.log(str.slice(2));
-console.log(str.slice(2,4));
-console.log(str.slice(-5));
+// // slice 
+// let str = "I Love Coding ";
+// console.log(str.slice(2));
+// console.log(str.slice(2,4));
+// console.log(str.slice(-5));
+
+
+
+//replace 
+
+    let str = "I love Coding ";
+    let = st;
+    st = str.slice("love", "Do");
+    console.log(str);
+    console.log(st);
+
 
