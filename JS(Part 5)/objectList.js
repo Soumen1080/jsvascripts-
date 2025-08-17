@@ -13,3 +13,9 @@ const properties =[ {
     tage : ["biluga1080","soumen1080",""],
 },
 ]
+
+
+console.log(properties[0]);
+console.log('==========================================================');
+console.log(properties[1]);
+console.log(properties[1].content);
