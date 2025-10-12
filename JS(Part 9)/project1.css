@@ -1,0 +1,19 @@
+div { 
+    border: 5px solid black;
+    text-align: center;
+    margin-top: 20px;
+    padding: auto;
+    height: 200px;
+}
+h2 {
+    text-align: center;
+}
+button {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    
+}
